@@ -1,8 +1,8 @@
-# product-catalog
-Automotive spare parts catalogs and technical documentation
-# Product Catalog
+# 🚗 Product Catalog
 
 ## JCBL India Auto Moto
+
+Global automotive spare parts catalogs and technical documentation for B2B buyers and distributors.
 
 This repository contains automotive spare parts catalogs, technical specifications, and product documentation for global B2B buyers.
 
